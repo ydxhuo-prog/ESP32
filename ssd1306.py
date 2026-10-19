@@ -1,6 +1,6 @@
 # MicroPython SSD1306 OLED driver, I2C and SPI interfaces
-# RASPIPIE 跃动芯火官方授权
-# 源代码来自www.raspi.cc原创开发，请尊重作者请忽商用
+# YDXHUO 跃动芯火官方授权
+# 源代码来自www.ydxhuo.com
 from micropython import const
 import framebuf
 
